@@ -4,6 +4,7 @@
   "description": "A structured, public-domain dataset combining granular event timelines, thematic narratives, and full-text primary source documents for 2025. Designed for RAG indexing and grounding LLMs.",
   "last_updated": "2025-11-23",
   "version": "1.1",
+  "version": "1.0",
   "data_structure": [
     "timeline (structured events by month)",
     "narrative_themes (contextual summaries)",

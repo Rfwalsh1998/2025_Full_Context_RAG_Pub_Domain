@@ -9,5 +9,11 @@
     {"date": "2025-04-13", "category": "Culture", "event": "Expo 2025 Opens", "details": "World Expo begins in Osaka, Japan, focusing on 'Designing Future Society for Our Lives'."},
     {"date": "2025-04-15", "category": "Science", "event": "K2-18b Biosignature Hint", "details": "JWST team reports possible organic molecules in exoplanet K2-18b's atmosphere."},
     {"date": "2025-04-20", "category": "Security", "event": "Thai-Cambodia Border Skirmish", "details": "Border clashes kill dozens and displace thousands along the frontier."}
+  "summary": "Bio-engineering milestones and political turmoil in Korea.",
+  "events": [
+    {"date": "2025-04-01", "category": "Space", "event": "Fram2 Polar Orbit", "details": "SpaceX launches the first crewed polar orbit mission."},
+    {"date": "2025-04-04", "category": "Politics", "event": "Korea Impeachment", "details": "President Yoon Suk Yeol is removed from office."},
+    {"date": "2025-04-07", "category": "Science", "event": "Dire Wolf De-extinction", "details": "Birth of engineered 'Dire Wolf' pups."},
+    {"date": "2025-04-10", "category": "Technology", "event": "Spot AI", "details": "Launch of an agentic AI surveillance builder for security cameras."}
   ]
 }
