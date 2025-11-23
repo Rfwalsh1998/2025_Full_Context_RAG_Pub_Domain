@@ -1,8 +1,13 @@
 {
-  "summary": "Agentic economy solidifies as climate disasters continue.",
+  "summary": "Agentic economy narrative consolidates with major earnings, climate summitry, and severe storms in Asia.",
   "events": [
-    {"date": "2025-11-05", "category": "Disaster", "event": "Typhoon Kalmaegi", "details": "Strikes the Philippines and Vietnam, causing widespread damage."},
-    {"date": "2025-11-19", "category": "Economics", "event": "Nvidia Earnings", "details": "$57B revenue; Jensen Huang touts a 'virtuous cycle of AI'."},
-    {"date": "2025-11-21", "category": "Technology", "event": "Gemini 3 Release", "details": "Google's Pro model claims reasoning superiority over GPT-5."}
+    {"date": "2025-11-01", "category": "Space", "event": "New Glenn Booster Lands", "details": "Blue Origin sticks first New Glenn booster recovery after Mars payload deployment."},
+    {"date": "2025-11-05", "category": "Disaster", "event": "Typhoon Kalmaegi", "details": "Storm strikes the Philippines and Vietnam, killing nearly 200."},
+    {"date": "2025-11-07", "category": "Disaster", "event": "Afghanistan Earthquake", "details": "Magnitude 6.3 quake in Balkh and Samangan provinces causes hundreds of casualties."},
+    {"date": "2025-11-10", "category": "Climate", "event": "COP30 Opens", "details": "UN climate summit begins in Belém, Brazil, centered on Amazon protection."},
+    {"date": "2025-11-15", "category": "Technology", "event": "Blue Origin Booster Reuse", "details": "New Glenn first stage returns to flight readiness within ten days of landing."},
+    {"date": "2025-11-19", "category": "Economics", "event": "Nvidia Earnings", "details": "$57B quarterly revenue fuels debate over AI bubble versus virtuous cycle of AI."},
+    {"date": "2025-11-21", "category": "Technology", "event": "Gemini 3 Release", "details": "Google launches Gemini 3 Pro, claiming reasoning superiority over GPT-5.1."},
+    {"date": "2025-11-21", "category": "Conflict", "event": "Kupiansk Claim", "details": "Russia asserts capture of Kupiansk in Kharkiv region as Ukraine ammo stocks dwindle."}
   ]
 }

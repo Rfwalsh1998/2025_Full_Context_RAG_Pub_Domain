@@ -1,10 +1,13 @@
 {
-  "summary": "Geopolitical fracture: US pauses Ukraine aid and the Gaza ceasefire collapses.",
+  "summary": "Geopolitical fracture as US pauses Ukraine aid, Gaza ceasefire collapses, and Southeast Asia suffers a major quake.",
   "events": [
-    {"date": "2025-03-02", "category": "Space", "event": "Firefly Moon Landing", "details": "Blue Ghost Mission 1 lands successfully."},
-    {"date": "2025-03-03", "category": "Geopolitics", "event": "Ukraine Aid Pause", "details": "White House officially halts military aid to Ukraine."},
-    {"date": "2025-03-18", "category": "Conflict", "event": "Gaza Conflict Resumes", "details": "Israel resumes bombardment as ceasefire ends."},
-    {"date": "2025-03-25", "category": "Technology", "event": "Gemini Robotics", "details": "DeepMind unveils foundation models for physical robots."},
-    {"date": "2025-03-28", "category": "Disaster", "event": "SE Asia Earthquake", "details": "Magnitude 7.7 quake in Myanmar/Thailand kills over 5,400."}
+    {"date": "2025-03-02", "category": "Space", "event": "Firefly Moon Landing", "details": "Blue Ghost Mission 1 becomes the first commercial lunar landing to operate flawlessly."},
+    {"date": "2025-03-03", "category": "Geopolitics", "event": "Ukraine Aid Pause", "details": "White House officially halts military aid to Ukraine after Oval Office dispute."},
+    {"date": "2025-03-03", "category": "Justice", "event": "Sudan ICJ Filing", "details": "Sudan sues the UAE at the International Court of Justice for alleged complicity in genocide."},
+    {"date": "2025-03-10", "category": "Elections", "event": "Portuguese Snap Election", "details": "Center-right coalition secures narrow victory following government collapse."},
+    {"date": "2025-03-18", "category": "Conflict", "event": "Gaza Conflict Resumes", "details": "Israel restarts bombardment citing stalled hostage return; ceasefire collapses."},
+    {"date": "2025-03-25", "category": "Technology", "event": "Gemini Robotics", "details": "DeepMind unveils foundation models for physical robots combining vision, language, and action planning."},
+    {"date": "2025-03-28", "category": "Disaster", "event": "SE Asia Earthquake", "details": "Magnitude 7.7 quake in Myanmar and Thailand kills more than 5,400 and injures over 11,000."},
+    {"date": "2025-03-30", "category": "Infrastructure", "event": "Stargate Leak", "details": "Reports surface of a $100B Microsoft–OpenAI data center dubbed 'Stargate'."}
   ]
 }

@@ -1,8 +1,13 @@
 {
-  "summary": "Summer of dissent and the Israel-Iran war.",
+  "summary": "Summer of dissent, Israel-Iran conflict, and leadership shifts across Asia and Europe.",
   "events": [
-    {"date": "2025-06-13", "category": "Conflict", "event": "Israel Strikes Iran", "details": "Attacks target nuclear facilities and senior commanders."},
-    {"date": "2025-06-14", "category": "Politics", "event": "'No Kings' Protests", "details": "Mass US protests amplified by AI-generated political videos."},
-    {"date": "2025-06-22", "category": "Conflict", "event": "US Strikes Iran", "details": "B-2 bombers hit Fordow and Natanz sites."}
+    {"date": "2025-06-03", "category": "Elections", "event": "South Korea Special Election", "details": "Lee Jae-myung wins presidency following Yoon's impeachment."},
+    {"date": "2025-06-13", "category": "Conflict", "event": "Israel Strikes Iran", "details": "Airstrikes hit Iranian nuclear facilities, killing senior IRGC commanders."},
+    {"date": "2025-06-14", "category": "Politics", "event": "'No Kings' Protests", "details": "Mass US demonstrations coincide with a presidential military parade and AI propaganda videos."},
+    {"date": "2025-06-15", "category": "Space", "event": "Axiom Mission 4", "details": "Private ISS mission launches carrying the first Polish and Indian astronauts in decades."},
+    {"date": "2025-06-18", "category": "Security", "event": "Poland Presidential Election", "details": "Karol Nawrocki wins, consolidating conservative power in Warsaw."},
+    {"date": "2025-06-22", "category": "Conflict", "event": "US Strikes Iran", "details": "B-2 bombers target Fordow and Natanz sites after Israeli request."},
+    {"date": "2025-06-23", "category": "Conflict", "event": "Iran Retaliation", "details": "Missile barrages hit US bases in Qatar and Iraq, spiking oil prices."},
+    {"date": "2025-06-25", "category": "SupplyChain", "event": "OpenAI–Foxconn Deal", "details": "Partnership announced to manufacture AI data center racks and cabling in the US."}
   ]
 }

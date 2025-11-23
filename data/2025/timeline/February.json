@@ -1,8 +1,13 @@
 {
-  "summary": "Economic fragmentation and AI-bio acceleration.",
+  "summary": "Economic fragmentation and AI-bio expansion alongside widening conflict zones and climate damage.",
   "events": [
-    {"date": "2025-02-02", "category": "Conflict", "event": "Somalia Airstrikes", "details": "US strikes ISIS targets in Puntland, killing 46."},
-    {"date": "2025-02-03", "category": "Economics", "event": "US-Canada Trade Truce", "details": "Tariff delay after Ontario threatens to cancel Starlink contracts."},
-    {"date": "2025-02-15", "category": "Technology", "event": "AI-Bio Launch", "details": "Manas AI founded; Nvidia introduces CavitOmiX for drug discovery."}
+    {"date": "2025-02-02", "category": "Conflict", "event": "Somalia Airstrikes", "details": "US strikes ISIS in Puntland kill 46 fighters."},
+    {"date": "2025-02-03", "category": "Economics", "event": "US-Canada Trade Truce", "details": "Tariff delay after Ontario threatens to end Starlink contracts."},
+    {"date": "2025-02-05", "category": "Conflict", "event": "West Bank Raids", "details": "Israeli operations in Jenin and other cities push Palestinian death toll to 70 for the year."},
+    {"date": "2025-02-10", "category": "Disaster", "event": "West Virginia Slides", "details": "Severe storms trigger landslides and mudslides, prompting $2.3M in emergency grants."},
+    {"date": "2025-02-15", "category": "Technology", "event": "AI-Bio Launch", "details": "Manas AI founded; Nvidia and Innophore unveil CavitOmiX for drug discovery."},
+    {"date": "2025-02-18", "category": "Space", "event": "Europa Clipper Thermal Tests", "details": "NASA completes final pre-vacuum tests ahead of spacecraft integration for the Europa mission."},
+    {"date": "2025-02-20", "category": "Economics", "event": "Tariff Clock Resumes", "details": "US signals intent to activate global tariff package after 30-day pause expires."},
+    {"date": "2025-02-27", "category": "Health", "event": "Malaria Vaccine Clearance", "details": "Regulators approve a next-generation malaria vaccine for African rollouts."}
   ]
 }

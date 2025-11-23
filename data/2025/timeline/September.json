@@ -1,8 +1,11 @@
 {
-  "summary": "Diplomatic breakthroughs and the 'Stargate' compute build.",
+  "summary": "Diplomatic breakthroughs, mega-compute bets, and widening recognition of Palestine during a volatile month.",
   "events": [
-    {"date": "2025-09-01", "category": "Human Rights", "event": "Genocide Declaration", "details": "Scholars declare Gaza actions genocide."},
-    {"date": "2025-09-15", "category": "Technology", "event": "Stargate Project", "details": "OpenAI and Nvidia announce a $100B compute partnership."},
-    {"date": "2025-09-29", "category": "Geopolitics", "event": "Gaza Peace Proposal", "details": "US peace plan accepted by Israel and Hamas."}
+    {"date": "2025-09-01", "category": "Human Rights", "event": "Genocide Declaration", "details": "International genocide scholars declare Israel's Gaza campaign a genocide."},
+    {"date": "2025-09-10", "category": "Diplomacy", "event": "Congo–Rwanda Truce", "details": "US-brokered preliminary peace agreement aims to end the eastern DRC proxy war."},
+    {"date": "2025-09-15", "category": "Technology", "event": "Stargate Project", "details": "OpenAI and Nvidia announce $100B partnership for 10 GW AI compute infrastructure."},
+    {"date": "2025-09-20", "category": "Diplomacy", "event": "State of Palestine Recognized", "details": "UK, Canada, Australia, and France formally recognize Palestinian statehood."},
+    {"date": "2025-09-25", "category": "Protest", "event": "Nepal Uprising Peaks", "details": "Gen Z-led protests force PM K.P. Sharma Oli to resign after dozens killed."},
+    {"date": "2025-09-29", "category": "Geopolitics", "event": "Gaza Peace Proposal", "details": "US 20-point ceasefire plan accepted by both Israel and Hamas."}
   ]
 }
