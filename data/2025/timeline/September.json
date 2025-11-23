@@ -1,11 +1,161 @@
 {
-  "summary": "Diplomatic breakthroughs, mega-compute bets, and widening recognition of Palestine during a volatile month.",
+  "summary": "Comprehensive monthly event log aligned to Wikipedia 2025 coverage; includes politics, conflicts, climate, tech, sports, and culture milestones.",
   "events": [
-    {"date": "2025-09-01", "category": "Human Rights", "event": "Genocide Declaration", "details": "International genocide scholars declare Israel's Gaza campaign a genocide."},
-    {"date": "2025-09-10", "category": "Diplomacy", "event": "Congo–Rwanda Truce", "details": "US-brokered preliminary peace agreement aims to end the eastern DRC proxy war."},
-    {"date": "2025-09-15", "category": "Technology", "event": "Stargate Project", "details": "OpenAI and Nvidia announce $100B partnership for 10 GW AI compute infrastructure."},
-    {"date": "2025-09-20", "category": "Diplomacy", "event": "State of Palestine Recognized", "details": "UK, Canada, Australia, and France formally recognize Palestinian statehood."},
-    {"date": "2025-09-25", "category": "Protest", "event": "Nepal Uprising Peaks", "details": "Gen Z-led protests force PM K.P. Sharma Oli to resign after dozens killed."},
-    {"date": "2025-09-29", "category": "Geopolitics", "event": "Gaza Peace Proposal", "details": "US 20-point ceasefire plan accepted by both Israel and Hamas."}
+    {
+      "date": "2025-09-03",
+      "category": "Technology",
+      "event": "At least 16 people are killed and over 21 are",
+      "details": "At least 16 people are killed and over 21 are injured after the Gl\u00f3ria funicular derailment in the centre of Lisbon , Portugal"
+    },
+    {
+      "date": "2025-09-08",
+      "category": "Politics",
+      "event": "2024\u20132025 French political crisis : The Bayrou government collapses after",
+      "details": "2024\u20132025 French political crisis : The Bayrou government collapses after losing a no-confidence vote"
+    },
+    {
+      "date": "2025-09-08",
+      "category": "Politics",
+      "event": "2025 Norwegian parliamentary election : Incumbent Prime Minister Jonas Gahr",
+      "details": "2025 Norwegian parliamentary election : Incumbent Prime Minister Jonas Gahr St\u00f8re 's coalition retains their majority"
+    },
+    {
+      "date": "2025-09-08",
+      "category": "Politics",
+      "event": "Mass anti-government protests erupt in Nepal , resulting in at",
+      "details": "Mass anti-government protests erupt in Nepal , resulting in at least 22 deaths and hundreds injured"
+    },
+    {
+      "date": "2025-09-08",
+      "category": "General",
+      "event": "P",
+      "details": "P"
+    },
+    {
+      "date": "2025-09-08",
+      "category": "Politics",
+      "event": "Prime Minister K",
+      "details": "Prime Minister K"
+    },
+    {
+      "date": "2025-09-08",
+      "category": "Politics",
+      "event": "Sharma Oli resigns the following day amidst the demonstrations",
+      "details": "Sharma Oli resigns the following day amidst the demonstrations"
+    },
+    {
+      "date": "2025-09-09",
+      "category": "Security",
+      "event": "Israel attacks the Hamas leadership in Doha , Qatar",
+      "details": "Israel attacks the Hamas leadership in Doha , Qatar"
+    },
+    {
+      "date": "2025-09-09",
+      "category": "Security",
+      "event": "Russian drone incursion into Poland : Multiple drones breach Polish",
+      "details": "Russian drone incursion into Poland : Multiple drones breach Polish airspace during a large-scale Russian attack on Ukraine and are intercepted by Polish and NATO forces, marking the first attack on NATO territory and prompting Poland to invoke Article 4"
+    },
+    {
+      "date": "2025-09-09",
+      "category": "General",
+      "event": "The 80th session of the United Nations General Assembly opens",
+      "details": "The 80th session of the United Nations General Assembly opens in New York City , United States"
+    },
+    {
+      "date": "2025-09-10",
+      "category": "Politics",
+      "event": "Charlie Kirk , an American right-wing activist and influential ally",
+      "details": "Charlie Kirk , an American right-wing activist and influential ally of President Trump , is assassinated at a campus event in Utah , prompting widespread reactions both domestically and internationally"
+    },
+    {
+      "date": "2025-09-11",
+      "category": "Politics",
+      "event": "The Supreme Federal Court convicts former Brazilian president Jair Bolsonaro",
+      "details": "The Supreme Federal Court convicts former Brazilian president Jair Bolsonaro and sentences him to 27 years in prison for his involvement in the 2022 Brazilian coup plot"
+    },
+    {
+      "date": "2025-09-12",
+      "category": "Sports",
+      "event": "28 \u2013 The 2025 FIVB Men's Volleyball World Championship is",
+      "details": "28 \u2013 The 2025 FIVB Men's Volleyball World Championship is held in Pasay and Quezon City , the Philippines , and is won by Italy"
+    },
+    {
+      "date": "2025-09-12",
+      "category": "Politics",
+      "event": "Former chief justice Sushila Karki assumes office as interim prime",
+      "details": "Former chief justice Sushila Karki assumes office as interim prime minister of an interim government formed after K"
+    },
+    {
+      "date": "2025-09-12",
+      "category": "General",
+      "event": "P",
+      "details": "P"
+    },
+    {
+      "date": "2025-09-12",
+      "category": "General",
+      "event": "Sharma Oli 's resignation in Nepal , the decision notably",
+      "details": "Sharma Oli 's resignation in Nepal ,  the decision notably being decided via a poll on a social media platform, Discord"
+    },
+    {
+      "date": "2025-09-13",
+      "category": "Sports",
+      "event": "21 \u2013 The 2025 World Athletics Championships are held in",
+      "details": "21 \u2013 The 2025 World Athletics Championships are held in Tokyo , Japan"
+    },
+    {
+      "date": "2025-09-16",
+      "category": "Politics",
+      "event": "2025 Malawian general election : Peter Mutharika is elected president",
+      "details": "2025 Malawian general election : Peter Mutharika is elected president for a second non-consecutive term"
+    },
+    {
+      "date": "2025-09-16",
+      "category": "Space",
+      "event": "A United Nations commission of inquiry finds that Israel has",
+      "details": "A United Nations commission of inquiry finds that Israel has committed genocide against Palestinians in Gaza"
+    },
+    {
+      "date": "2025-09-19",
+      "category": "Space",
+      "event": "Estonian airspace near Vaindloo island is violated by three Russian",
+      "details": "Estonian airspace near Vaindloo island is violated by three Russian MiG-31 jets"
+    },
+    {
+      "date": "2025-09-19",
+      "category": "Security",
+      "event": "In response, Estonia invokes Article 4 of NATO",
+      "details": "In response, Estonia invokes Article 4 of NATO"
+    },
+    {
+      "date": "2025-09-20",
+      "category": "General",
+      "event": "Intervision 2025 is held in Moscow , Russia",
+      "details": "Intervision 2025 is held in Moscow , Russia"
+    },
+    {
+      "date": "2025-09-20",
+      "category": "General",
+      "event": "Vietnamese contestant \u0110\u1ee9c Ph\u00fac wins with the song \" Ph\u00f9",
+      "details": "Vietnamese contestant \u0110\u1ee9c Ph\u00fac wins with the song \" Ph\u00f9 \u0110\u1ed5ng Thi\u00ean V\u01b0\u01a1ng  \""
+    },
+    {
+      "date": "2025-09-21",
+      "category": "Politics",
+      "event": "The UK , Canada , and Australia announce their formal",
+      "details": "The UK , Canada , and Australia announce their formal recognition of Palestine as a sovereign state, with France also doing so the next day"
+    },
+    {
+      "date": "2025-09-28",
+      "category": "Politics",
+      "event": "2025 Moldovan parliamentary election : Incumbent pro-European party PAS wins",
+      "details": "2025 Moldovan parliamentary election : Incumbent pro-European party PAS wins reelection, forming another majority government"
+    },
+    {
+      "date": "2025-09-30",
+      "category": "Disaster",
+      "event": "A M w 6.9 earthquake shakes the island of Cebu",
+      "details": "A M w 6.9 earthquake shakes the island of Cebu in the Philippines, leaving 71 people dead and 559 injured"
+    }
   ]
 }

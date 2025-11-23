@@ -1,13 +1,167 @@
 {
-  "summary": "Reality blur from advanced video AI, mass protests during a US shutdown, and coups amid climate disasters.",
+  "summary": "Comprehensive monthly event log aligned to Wikipedia 2025 coverage; includes politics, conflicts, climate, tech, sports, and culture milestones.",
   "events": [
-    {"date": "2025-10-01", "category": "Politics", "event": "US Shutdown", "details": "Federal funding lapses, halting pay for millions of workers."},
-    {"date": "2025-10-05", "category": "Technology", "event": "Sora 2 Release", "details": "OpenAI's text-to-video model generates 60-second photorealistic clips, fueling protest disinformation."},
-    {"date": "2025-10-09", "category": "Politics", "event": "Madagascar Coup", "details": "Military ousts President Andry Rajoelina after months of demonstrations."},
-    {"date": "2025-10-13", "category": "Geopolitics", "event": "Gaza Hostage Exchange", "details": "Hamas releases 20 hostages to the Red Cross; Israel frees 1,900 detainees."},
-    {"date": "2025-10-18", "category": "Politics", "event": "'No Kings' Phase II", "details": "5–7 million protesters rally nationwide against authoritarian drift."},
-    {"date": "2025-10-20", "category": "Conflict", "event": "Al-Fashir Massacre", "details": "Government-linked militias kill over 2,500 civilians in Darfur city."},
-    {"date": "2025-10-25", "category": "Technology", "event": "Small Models", "details": "Microsoft's Phi-4 and IBM's Granite 4.0 release efficient instruction-tuned models."},
-    {"date": "2025-10-28", "category": "Environment", "event": "Hurricane Melissa", "details": "Category 5 storm strikes Jamaica with near 300 km/h winds."}
+    {
+      "date": "2025-10-01",
+      "category": "Technology",
+      "event": "Israel intercepts the Global Sumud Flotilla , a fleet carrying",
+      "details": "Israel intercepts the Global Sumud Flotilla , a fleet carrying humanitarian aid to the Gaza Strip , in international waters , arresting 443 activists from 47 countries"
+    },
+    {
+      "date": "2025-10-03",
+      "category": "Politics",
+      "event": "4 \u2013 2025 Czech parliamentary election : ANO leader and",
+      "details": "4 \u2013 2025 Czech parliamentary election : ANO leader and former Prime Minister Andrej Babi\u0161 wins a plurality of seats, but fails to reach a majority"
+    },
+    {
+      "date": "2025-10-03",
+      "category": "General",
+      "event": "Dame Sarah Mullally is named the first female Archbishop of",
+      "details": "Dame Sarah Mullally is named the first female Archbishop of Canterbury"
+    },
+    {
+      "date": "2025-10-03",
+      "category": "Politics",
+      "event": "Henri, Grand Duke of Luxembourg , abdicates the throne in",
+      "details": "Henri, Grand Duke of Luxembourg , abdicates the throne in favor of his son Guillaume"
+    },
+    {
+      "date": "2025-10-03",
+      "category": "Politics",
+      "event": "Incumbent Prime Minister Petr Fiala 's coalition fails to win",
+      "details": "Incumbent Prime Minister Petr Fiala 's coalition fails to win a majority"
+    },
+    {
+      "date": "2025-10-05",
+      "category": "Politics",
+      "event": "The 2025 Syrian parliamentary election is held, the first since",
+      "details": "The 2025 Syrian parliamentary election is held, the first since the fall of the Assad regime in 2024"
+    },
+    {
+      "date": "2025-10-09",
+      "category": "Politics",
+      "event": "11 \u2013 2025 Seychellois general election : Incumbent President Wavel",
+      "details": "11 \u2013 2025 Seychellois general election : Incumbent President Wavel Ramkalawan loses reelection to Patrick Herminie"
+    },
+    {
+      "date": "2025-10-09",
+      "category": "Security",
+      "event": "2025 Afghanistan\u2013Pakistan conflict : Pakistan reportedly carries out airstrikes in",
+      "details": "2025 Afghanistan\u2013Pakistan conflict : Pakistan reportedly carries out airstrikes in Kabul , Khost , Jalalabad , and Paktika , targeting Noor Wali Mehsud , an internationally designated terrorist"
+    },
+    {
+      "date": "2025-10-09",
+      "category": "Disaster",
+      "event": "Israel and Hamas agree to the first phase of a",
+      "details": "Israel and Hamas agree to the first phase of a Gaza peace deal , paving the way for a ceasefire, almost exactly two years after the conflict began"
+    },
+    {
+      "date": "2025-10-09",
+      "category": "Politics",
+      "event": "Ramkalawan's party LDS also loses its majority in parliament",
+      "details": "Ramkalawan's party LDS also loses its majority in parliament"
+    },
+    {
+      "date": "2025-10-10",
+      "category": "Politics",
+      "event": "Dina Boluarte , the President of Peru , is unanimously",
+      "details": "Dina Boluarte , the President of Peru , is unanimously impeached by the Congress of the Republic"
+    },
+    {
+      "date": "2025-10-12",
+      "category": "Politics",
+      "event": "2025 Cameroonian presidential election : Incumbent President Paul Biya is",
+      "details": "2025 Cameroonian presidential election : Incumbent President Paul Biya is re-elected for an eighth consecutive term"
+    },
+    {
+      "date": "2025-10-12",
+      "category": "Politics",
+      "event": "2025 Malagasy coup d'\u00e9tat : Following a series of protests",
+      "details": "2025 Malagasy coup d'\u00e9tat : Following a series of protests , incumbent President Andry Rajoelina is ousted and military officer Michael Randrianirina becomes President"
+    },
+    {
+      "date": "2025-10-13",
+      "category": "Security",
+      "event": "Gaza war : Hamas releases the last 20 living hostages",
+      "details": "Gaza war : Hamas releases the last 20 living hostages in Gaza after they were kidnapped during the 2023 October 7 attacks"
+    },
+    {
+      "date": "2025-10-13",
+      "category": "Technology",
+      "event": "In exchange, Israel releases 250 Palestinian prisoners and more than",
+      "details": "In exchange, Israel releases 250 Palestinian prisoners and more than 1,700 detainees"
+    },
+    {
+      "date": "2025-10-19",
+      "category": "Politics",
+      "event": "2025 Bolivian general election : Rodrigo Paz Pereira wins the",
+      "details": "2025 Bolivian general election : Rodrigo Paz Pereira wins the presidential election in a runoff against former President Jorge Quiroga"
+    },
+    {
+      "date": "2025-10-19",
+      "category": "General",
+      "event": "2025 Louvre robbery : Pieces of the French Crown Jewels",
+      "details": "2025 Louvre robbery : Pieces of the French Crown Jewels are stolen during a robbery from the Galerie d'Apollon of the Louvre in Paris"
+    },
+    {
+      "date": "2025-10-19",
+      "category": "General",
+      "event": "Incumbent party MAS-IPSP loses all their seats in the Senate",
+      "details": "Incumbent party MAS-IPSP loses all their seats in the Senate and all but two seats in the Chamber of Deputies"
+    },
+    {
+      "date": "2025-10-21",
+      "category": "Security",
+      "event": "American Eric Lu wins the quinquennial XIX International Chopin Piano",
+      "details": "American Eric Lu wins the quinquennial XIX International Chopin Piano Competition at the National Philharmonic in Warsaw , Poland"
+    },
+    {
+      "date": "2025-10-21",
+      "category": "Politics",
+      "event": "Sanae Takaichi becomes the first female Prime Minister of Japan",
+      "details": "Sanae Takaichi becomes the first female Prime Minister of Japan"
+    },
+    {
+      "date": "2025-10-24",
+      "category": "Disaster",
+      "event": "2025 Irish presidential election : Independent candidate Catherine Connolly wins",
+      "details": "2025 Irish presidential election : Independent candidate Catherine Connolly wins the election in a landslide, defeating Fine Gael candidate Heather Humphreys"
+    },
+    {
+      "date": "2025-10-26",
+      "category": "Politics",
+      "event": "2025 Argentine legislative election : Incumbent President Javier Milei 's",
+      "details": "2025 Argentine legislative election : Incumbent President Javier Milei 's party La Libertad Avanza wins the election with over 40% of the votes"
+    },
+    {
+      "date": "2025-10-26",
+      "category": "Security",
+      "event": "Al-Fashir massacre : Mass murder is reported during which an",
+      "details": "Al-Fashir massacre : Mass murder is reported during which an estimated 2,500 or more civilians have been executed by the Rapid Support Forces in the city of Al-Fashir , Sudan"
+    },
+    {
+      "date": "2025-10-26",
+      "category": "General",
+      "event": "Timor-Leste becomes the 11th member state of ASEAN , being",
+      "details": "Timor-Leste becomes the 11th member state of ASEAN , being the first enlargement of ASEAN since Cambodia 's entry in 1999 and comprising all countries of Southeast Asia"
+    },
+    {
+      "date": "2025-10-28",
+      "category": "Disaster",
+      "event": "Hurricane Melissa makes landfall into Jamaica as a Category 5",
+      "details": "Hurricane Melissa makes landfall into Jamaica as a Category 5 hurricane , with wind speeds up to 185 mph (298 km/h)"
+    },
+    {
+      "date": "2025-10-28",
+      "category": "Technology",
+      "event": "Operation Containment : In Rio de Janeiro , more than",
+      "details": "Operation Containment : In Rio de Janeiro , more than 120 people are killed in raids targeting criminal organization Comando Vermelho during the deadliest police operation in Brazilian history"
+    },
+    {
+      "date": "2025-10-29",
+      "category": "Politics",
+      "event": "2025 Dutch general election : Social liberal party Democrats 66",
+      "details": "2025 Dutch general election : Social liberal party Democrats 66 ties with right-wing populist party Party for Freedom in most number of seats"
+    }
   ]
 }

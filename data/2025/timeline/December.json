@@ -1,0 +1,29 @@
+{
+  "summary": "Comprehensive monthly event log aligned to Wikipedia 2025 coverage; includes politics, conflicts, climate, tech, sports, and culture milestones.",
+  "events": [
+    {
+      "date": "2025-12-03",
+      "category": "Politics",
+      "event": "4 \u2013 The second round of the 2025 Egyptian parliamentary",
+      "details": "4 \u2013 The second round of the 2025 Egyptian parliamentary election is scheduled to be held"
+    },
+    {
+      "date": "2025-12-13",
+      "category": "General",
+      "event": "The Junior Eurovision Song Contest 2025 is scheduled to be",
+      "details": "The Junior Eurovision Song Contest 2025 is scheduled to be held in Tbilisi , Georgia"
+    },
+    {
+      "date": "2025-12-14",
+      "category": "Politics",
+      "event": "The second round of the 2025 Chilean general election is",
+      "details": "The second round of the 2025 Chilean general election is scheduled to be held"
+    },
+    {
+      "date": "2025-12-21",
+      "category": "Sports",
+      "event": "January 18 \u2013 The 2025 Africa Cup of Nations is",
+      "details": "January 18 \u2013 The 2025 Africa Cup of Nations is scheduled to be held in Morocco"
+    }
+  ]
+}

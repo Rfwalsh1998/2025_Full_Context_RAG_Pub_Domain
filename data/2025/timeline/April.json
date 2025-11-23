@@ -1,19 +1,155 @@
 {
-  "summary": "Bio-engineering milestones, Korean political upheaval, and the opening of Expo 2025 in Osaka.",
+  "summary": "Comprehensive monthly event log aligned to Wikipedia 2025 coverage; includes politics, conflicts, climate, tech, sports, and culture milestones.",
   "events": [
-    {"date": "2025-04-01", "category": "Space", "event": "Fram2 Polar Orbit", "details": "SpaceX launches first crewed polar retrograde orbit mission."},
-    {"date": "2025-04-04", "category": "Politics", "event": "Korea Impeachment", "details": "South Korea's Constitutional Court removes President Yoon Suk Yeol from office."},
-    {"date": "2025-04-07", "category": "Science", "event": "Dire Wolf De-extinction", "details": "Colossal Biosciences announces birth of engineered Dire Wolf pups Romulus, Remus, and Khaleesi."},
-    {"date": "2025-04-09", "category": "Disaster", "event": "Jet Set Nightclub Fire", "details": "Fire and stampede at a Santo Domingo club kill nearly 100."},
-    {"date": "2025-04-10", "category": "Technology", "event": "Spot AI", "details": "Launch of a universal AI agent builder for live security camera monitoring."},
-    {"date": "2025-04-13", "category": "Culture", "event": "Expo 2025 Opens", "details": "World Expo begins in Osaka, Japan, focusing on 'Designing Future Society for Our Lives'."},
-    {"date": "2025-04-15", "category": "Science", "event": "K2-18b Biosignature Hint", "details": "JWST team reports possible organic molecules in exoplanet K2-18b's atmosphere."},
-    {"date": "2025-04-20", "category": "Security", "event": "Thai-Cambodia Border Skirmish", "details": "Border clashes kill dozens and displace thousands along the frontier."}
-  "summary": "Bio-engineering milestones and political turmoil in Korea.",
-  "events": [
-    {"date": "2025-04-01", "category": "Space", "event": "Fram2 Polar Orbit", "details": "SpaceX launches the first crewed polar orbit mission."},
-    {"date": "2025-04-04", "category": "Politics", "event": "Korea Impeachment", "details": "President Yoon Suk Yeol is removed from office."},
-    {"date": "2025-04-07", "category": "Science", "event": "Dire Wolf De-extinction", "details": "Birth of engineered 'Dire Wolf' pups."},
-    {"date": "2025-04-10", "category": "Technology", "event": "Spot AI", "details": "Launch of an agentic AI surveillance builder for security cameras."}
+    {
+      "date": "2025-04-01",
+      "category": "Space",
+      "event": "Fram2 launches aboard a SpaceX Falcon 9 rocket, becoming the",
+      "details": "Fram2 launches aboard a SpaceX Falcon 9 rocket, becoming the first crewed spaceflight to enter a polar retrograde orbit"
+    },
+    {
+      "date": "2025-04-02",
+      "category": "Politics",
+      "event": "US President Donald Trump issues sweeping trade tariffs on many",
+      "details": "US President Donald Trump issues sweeping trade tariffs on many countries, including a 10% baseline tariff for all imports"
+    },
+    {
+      "date": "2025-04-03",
+      "category": "Politics",
+      "event": "Hungary withdraws from the International Criminal Court after Israeli Prime",
+      "details": "Hungary withdraws from the International Criminal Court after Israeli Prime Minister and accused war criminal Benjamin Netanyahu lands in Budapest for a state visit, in defiance of the International Criminal Court's arrest warrant against him"
+    },
+    {
+      "date": "2025-04-04",
+      "category": "Politics",
+      "event": "Impeachment of Yoon Suk Yeol : The Constitutional Court of",
+      "details": "Impeachment of Yoon Suk Yeol : The Constitutional Court of Korea unanimously upholds Yoon's impeachment in an 8\u20130 vote, officially removing him from office"
+    },
+    {
+      "date": "2025-04-07",
+      "category": "General",
+      "event": "Colossal Biosciences showcases three grey wolves that are genetically modified",
+      "details": "Colossal Biosciences showcases three grey wolves that are genetically modified to exhibit the characteristics of the dire wolf"
+    },
+    {
+      "date": "2025-04-08",
+      "category": "General",
+      "event": "During a concert performance by Rubby P\u00e9rez in Santo Domingo",
+      "details": "During a concert performance by Rubby P\u00e9rez in Santo Domingo , a nightclub roof collapses , killing at least 231 people, including P\u00e9rez, and injures more than 200 others"
+    },
+    {
+      "date": "2025-04-12",
+      "category": "Politics",
+      "event": "2025 Gabonese presidential election : Incumbent transitional President Brice Oligui",
+      "details": "2025 Gabonese presidential election : Incumbent transitional President Brice Oligui Nguema wins a full term"
+    },
+    {
+      "date": "2025-04-12",
+      "category": "Politics",
+      "event": "The election is the first since the 2023 Gabonese coup",
+      "details": "The election is the first since the 2023 Gabonese coup d'\u00e9tat , and was preceded by a constitutional referendum in 2024"
+    },
+    {
+      "date": "2025-04-13",
+      "category": "Politics",
+      "event": "2025 Ecuadorian general election : Incumbent president Daniel Noboa is",
+      "details": "2025 Ecuadorian general election : Incumbent president Daniel Noboa is re-elected for a full term in the second round"
+    },
+    {
+      "date": "2025-04-13",
+      "category": "General",
+      "event": "October 13 \u2013 Expo 2025 is held in Osaka ,",
+      "details": "October 13 \u2013 Expo 2025 is held in Osaka , Japan"
+    },
+    {
+      "date": "2025-04-15",
+      "category": "Disaster",
+      "event": "A motorized wooden boat capsizes after catching fire in the",
+      "details": "A motorized wooden boat capsizes after catching fire in the Congo River near the town of Mbandaka in the Democratic Republic of the Congo , killing at least 148 people"
+    },
+    {
+      "date": "2025-04-17",
+      "category": "Technology",
+      "event": "The atmosphere of K2-18b , a candidate water world located",
+      "details": "The atmosphere of K2-18b , a candidate water world located 124 light-years away, is found to contain large quantities of dimethyl sulfide and/or dimethyl disulfide \u2013 two compounds that, on Earth , are only known to be produced by life"
+    },
+    {
+      "date": "2025-04-21",
+      "category": "General",
+      "event": "Many countries have declared national mourning",
+      "details": "Many countries have declared national mourning"
+    },
+    {
+      "date": "2025-04-21",
+      "category": "General",
+      "event": "Pope Francis , head of the Catholic Church since 2013,",
+      "details": "Pope Francis , head of the Catholic Church since 2013, dies at the age of 88"
+    },
+    {
+      "date": "2025-04-21",
+      "category": "General",
+      "event": "World leaders pay tribute",
+      "details": "World leaders pay tribute"
+    },
+    {
+      "date": "2025-04-22",
+      "category": "Disaster",
+      "event": "Militants affiliated with The Resistance Front open fire on a",
+      "details": "Militants affiliated with The Resistance Front open fire on a group of tourists at the Baisaran Valley in Jammu and Kashmir , India, killing 26 and injuring at least 20"
+    },
+    {
+      "date": "2025-04-26",
+      "category": "Disaster",
+      "event": "An explosion in the Port of Shahid Rajaee , Bandar",
+      "details": "An explosion in the Port of Shahid Rajaee , Bandar Abbas , Iran, kills at least 70 people and injures more than 1,000"
+    },
+    {
+      "date": "2025-04-26",
+      "category": "Security",
+      "event": "At least 11 people are killed and at least 20",
+      "details": "At least 11 people are killed and at least 20 others are injured in a vehicle-ramming attack at the annual Lapu Lapu Day festival in Vancouver , British Columbia, Canada"
+    },
+    {
+      "date": "2025-04-26",
+      "category": "General",
+      "event": "The funeral of Pope Francis is attended by delegations from",
+      "details": "The funeral of Pope Francis is attended by delegations from 164 countries, including 82 leaders, and 250,000 members of the public"
+    },
+    {
+      "date": "2025-04-28",
+      "category": "Politics",
+      "event": "2025 Canadian federal election : Following Justin Trudeau 's resignation",
+      "details": "2025 Canadian federal election : Following Justin Trudeau 's resignation as prime minister in January, former governor of the Bank of Canada Mark Carney becomes the Prime Minister of Canada five days later"
+    },
+    {
+      "date": "2025-04-28",
+      "category": "Politics",
+      "event": "2025 Trinidad and Tobago general election : The UNC wins",
+      "details": "2025 Trinidad and Tobago general election : The UNC wins a majority government, defeating the incumbent PNM"
+    },
+    {
+      "date": "2025-04-28",
+      "category": "Technology",
+      "event": "A widespread power outage affects Spain and Portugal for hours",
+      "details": "A widespread power outage affects Spain and Portugal for hours"
+    },
+    {
+      "date": "2025-04-28",
+      "category": "General",
+      "event": "Andorra is affected for a few seconds while southern France",
+      "details": "Andorra is affected for a few seconds while southern France is lightly affected"
+    },
+    {
+      "date": "2025-04-28",
+      "category": "Politics",
+      "event": "The Liberal Party wins a fourth consecutive reelection and forms",
+      "details": "The Liberal Party wins a fourth consecutive reelection and forms a minority government"
+    },
+    {
+      "date": "2025-04-30",
+      "category": "Politics",
+      "event": "The Ukraine\u2013United States Mineral Resources Agreement is signed, providing an",
+      "details": "The Ukraine\u2013United States Mineral Resources Agreement is signed, providing an economic incentive for the US to continue to invest in Ukraine's defence and reconstruction, in exchange for access to the war-torn country's energy and mineral resources"
+    }
   ]
 }

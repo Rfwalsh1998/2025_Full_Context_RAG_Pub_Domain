@@ -6,8 +6,8 @@ A public-domain knowledge object for 2025 designed for Retrieval-Augmented Gener
 
 - `data/2025/meta.json` – high-level metadata, version, and license.
 - `data/2025/narrative/themes.json` – cross-cutting themes for the year.
-- `data/2025/timeline/` – month-level JSON files with summaries and events, plus a `schema` reference in `index.json`.
-- `data/2025/source_documents/` – full-text reference documents with minimal front matter.
+- `data/2025/timeline/` – month-level JSON files (January–December) with summaries and events, plus a `schema` reference in `index.json`.
+- `data/2025/source_documents/` – full-text reference documents with minimal front matter, including `wiki-events-expanded.md` for line-by-line coverage of the Wikipedia 2025 event list.
 - `LICENSE` – CC0 1.0 Universal dedication.
 
 ## Notes for LLM Ingestion

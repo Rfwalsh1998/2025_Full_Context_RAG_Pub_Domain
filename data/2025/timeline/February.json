@@ -1,13 +1,167 @@
 {
-  "summary": "Economic fragmentation and AI-bio expansion alongside widening conflict zones and climate damage.",
+  "summary": "Comprehensive monthly event log aligned to Wikipedia 2025 coverage; includes politics, conflicts, climate, tech, sports, and culture milestones.",
   "events": [
-    {"date": "2025-02-02", "category": "Conflict", "event": "Somalia Airstrikes", "details": "US strikes ISIS in Puntland kill 46 fighters."},
-    {"date": "2025-02-03", "category": "Economics", "event": "US-Canada Trade Truce", "details": "Tariff delay after Ontario threatens to end Starlink contracts."},
-    {"date": "2025-02-05", "category": "Conflict", "event": "West Bank Raids", "details": "Israeli operations in Jenin and other cities push Palestinian death toll to 70 for the year."},
-    {"date": "2025-02-10", "category": "Disaster", "event": "West Virginia Slides", "details": "Severe storms trigger landslides and mudslides, prompting $2.3M in emergency grants."},
-    {"date": "2025-02-15", "category": "Technology", "event": "AI-Bio Launch", "details": "Manas AI founded; Nvidia and Innophore unveil CavitOmiX for drug discovery."},
-    {"date": "2025-02-18", "category": "Space", "event": "Europa Clipper Thermal Tests", "details": "NASA completes final pre-vacuum tests ahead of spacecraft integration for the Europa mission."},
-    {"date": "2025-02-20", "category": "Economics", "event": "Tariff Clock Resumes", "details": "US signals intent to activate global tariff package after 30-day pause expires."},
-    {"date": "2025-02-27", "category": "Health", "event": "Malaria Vaccine Clearance", "details": "Regulators approve a next-generation malaria vaccine for African rollouts."}
+    {
+      "date": "2025-02-04",
+      "category": "Disaster",
+      "event": "At least 11 people are killed (and the perpetrator) and",
+      "details": "At least 11 people are killed (and the perpetrator) and another 15 are injured after a gunman opens fire at an adult education centre in \u00d6rebro , Sweden, the deadliest mass shooting in the country's history"
+    },
+    {
+      "date": "2025-02-04",
+      "category": "Security",
+      "event": "China\u2013United States trade war : China announces export controls and",
+      "details": "China\u2013United States trade war : China announces export controls and increased tariffs on certain American imports in retaliation for Donald Trump's imposition of tariffs on Chinese goods"
+    },
+    {
+      "date": "2025-02-04",
+      "category": "Politics",
+      "event": "Donald Trump announces that the United States will take control",
+      "details": "Donald Trump announces that the United States will take control of the Gaza Strip in an agreement with Israel , and that the U"
+    },
+    {
+      "date": "2025-02-04",
+      "category": "General",
+      "event": "S",
+      "details": "S"
+    },
+    {
+      "date": "2025-02-04",
+      "category": "Security",
+      "event": "military will be in charge of Gaza's reconstruction",
+      "details": "military will be in charge of Gaza's reconstruction"
+    },
+    {
+      "date": "2025-02-09",
+      "category": "Politics",
+      "event": "2025 Liechtenstein general election : The Patriotic Union , led",
+      "details": "2025 Liechtenstein general election : The Patriotic Union , led by Brigitte Haas , retains its plurality of 10 seats in the Landtag"
+    },
+    {
+      "date": "2025-02-09",
+      "category": "General",
+      "event": "The Baltic states complete synchronization of their power grids with",
+      "details": "The Baltic states complete synchronization of their power grids with continental Europe's grid , disconnecting from Russia's grid"
+    },
+    {
+      "date": "2025-02-10",
+      "category": "General",
+      "event": "A bus falls off a bridge over the Las Vacas",
+      "details": "A bus falls off a bridge over the Las Vacas River in Guatemala City , Guatemala, killing at least 55 people, and seriously injuring 9 others"
+    },
+    {
+      "date": "2025-02-12",
+      "category": "Politics",
+      "event": "Klaus Iohannis resigns as President of Romania , making him",
+      "details": "Klaus Iohannis resigns as President of Romania , making him the first Romanian president to do so post- revolution"
+    },
+    {
+      "date": "2025-02-12",
+      "category": "Politics",
+      "event": "Konstantinos Tasoulas is elected President of Greece by the Hellenic",
+      "details": "Konstantinos Tasoulas is elected President of Greece by the Hellenic Parliament after four rounds in the 2025 Greek presidential election"
+    },
+    {
+      "date": "2025-02-15",
+      "category": "Politics",
+      "event": "Mahamoud Ali Youssouf is elected as the chairperson of the",
+      "details": "Mahamoud Ali Youssouf is elected as the chairperson of the African Union Commission"
+    },
+    {
+      "date": "2025-02-17",
+      "category": "Politics",
+      "event": "2025 Indonesian protests : A series of ongoing nationwide protests",
+      "details": "2025 Indonesian protests : A series of ongoing nationwide protests are held following the enactment of a legislation increasing military involvement in civilian government roles"
+    },
+    {
+      "date": "2025-02-18",
+      "category": "Politics",
+      "event": "A four-hour summit between the US and Russia is held",
+      "details": "A four-hour summit between the US and Russia is held in Saudi Arabia"
+    },
+    {
+      "date": "2025-02-18",
+      "category": "General",
+      "event": "Egypt announces the discovery of Thutmose II 's tomb by",
+      "details": "Egypt announces the discovery of Thutmose II 's tomb by a joint British-Egyptian team, the first royal tomb to be discovered since Tutankhamun 's in 1922"
+    },
+    {
+      "date": "2025-02-18",
+      "category": "Politics",
+      "event": "Following a constitutional reform, Nicaragua becomes a diarchy with spouses",
+      "details": "Following a constitutional reform, Nicaragua becomes a diarchy with spouses Daniel Ortega and Rosario Murillo as co-presidents"
+    },
+    {
+      "date": "2025-02-18",
+      "category": "General",
+      "event": "It is the 15th and final pharaoh tomb from the",
+      "details": "It is the 15th and final pharaoh tomb from the Eighteenth Dynasty of Egypt to have been found by archeologists"
+    },
+    {
+      "date": "2025-02-18",
+      "category": "General",
+      "event": "Vladimir Putin announces that Russia and the United States have",
+      "details": "Vladimir Putin announces that Russia and the United States have officially agreed to restore diplomatic relations"
+    },
+    {
+      "date": "2025-02-19",
+      "category": "General",
+      "event": "Croatia completes the process of joining the European Economic Area",
+      "details": "Croatia completes the process of joining the European Economic Area"
+    },
+    {
+      "date": "2025-02-23",
+      "category": "Politics",
+      "event": "2025 German federal election : After being pushed forward as",
+      "details": "2025 German federal election : After being pushed forward as a result of the 2024 German government crisis , the centre-right CDU/CSU becomes the largest party, with big gains from the far-right AfD , resulting in a second-place finish"
+    },
+    {
+      "date": "2025-02-25",
+      "category": "Sports",
+      "event": "All 17 occupants onboard and 29 people on the ground",
+      "details": "All 17 occupants onboard and 29 people on the ground die"
+    },
+    {
+      "date": "2025-02-25",
+      "category": "Technology",
+      "event": "An Antonov An-26 of the Sudanese Air Force crashes in",
+      "details": "An Antonov An-26 of the Sudanese Air Force crashes in a residential area, near the Wadi Seidna Air Base"
+    },
+    {
+      "date": "2025-02-28",
+      "category": "General",
+      "event": "A meeting between U",
+      "details": "A meeting between U"
+    },
+    {
+      "date": "2025-02-28",
+      "category": "Security",
+      "event": "JD Vance sharply criticise Zelenskyy, raising questions about support for",
+      "details": "JD Vance sharply criticise Zelenskyy, raising questions about support for Ukraine , a proposed end to the war , and the country's future in general"
+    },
+    {
+      "date": "2025-02-28",
+      "category": "General",
+      "event": "P",
+      "details": "P"
+    },
+    {
+      "date": "2025-02-28",
+      "category": "General",
+      "event": "S",
+      "details": "S"
+    },
+    {
+      "date": "2025-02-28",
+      "category": "General",
+      "event": "Trump and V",
+      "details": "Trump and V"
+    },
+    {
+      "date": "2025-02-28",
+      "category": "Politics",
+      "event": "president Donald Trump and Ukrainian president Volodymyr Zelenskyy takes place",
+      "details": "president Donald Trump and Ukrainian president Volodymyr Zelenskyy takes place at the White House"
+    }
   ]
 }

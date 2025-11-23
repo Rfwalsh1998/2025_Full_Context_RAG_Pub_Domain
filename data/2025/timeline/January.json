@@ -1,17 +1,287 @@
 {
-  "summary": "Structural shocks: 'Liberation Day' orders in the US, DeepSeek AI market crash, and confirmed climate records amid extreme weather swings.",
+  "summary": "Comprehensive monthly event log aligned to Wikipedia 2025 coverage; includes politics, conflicts, climate, tech, sports, and culture milestones.",
   "events": [
-    {"date": "2025-01-01", "category": "Security", "event": "New Orleans Attack", "details": "Vehicle-ramming and shooting in the French Quarter kills 15."},
-    {"date": "2025-01-01", "category": "Astronomy", "event": "Great Comet Peak", "details": "Great Comet of 2025 (C/2024 G3 ATLAS) reaches perihelion and becomes visible to the naked eye."},
-    {"date": "2025-01-05", "category": "Environment", "event": "Palisades Fire (LA)", "details": "Santa Ana winds drive fires destroying 13,000 structures across Los Angeles County."},
-    {"date": "2025-01-07", "category": "Environment", "event": "Tibet Earthquake", "details": "Magnitude 7.1 quake leaves at least 126 dead in the Tibetan Plateau."},
-    {"date": "2025-01-08", "category": "Security", "event": "Chad Palace Attack", "details": "Eighteen gunmen die in an assault on the presidential palace in N'Djamena."},
-    {"date": "2025-01-10", "category": "Environment", "event": "1.5°C Record", "details": "2024 confirmed as the first year exceeding 1.5°C warming above pre-industrial levels."},
-    {"date": "2025-01-15", "category": "Science", "event": "Thylacine Embryo", "details": "Artificial womb milestone achieves mid-gestation Tasmanian tiger embryo."},
-    {"date": "2025-01-19", "category": "Justice", "event": "Tehran Judges Assassinated", "details": "Two judges linked to the 1988 executions are killed in Tehran."},
-    {"date": "2025-01-20", "category": "Politics", "event": "Liberation Day (Inauguration)", "details": "Trump inaugurated; revokes 78 executive orders and withdraws from WHO and Paris Agreement."},
-    {"date": "2025-01-20", "category": "Technology", "event": "DeepSeek Shock", "details": "Efficient Chinese LLM launch triggers a 17% intraday drop in Nvidia stock."},
-    {"date": "2025-01-24", "category": "Education", "event": "Google BETT Showcase", "details": "Google debuts Gemini-powered classroom tools at London's BETT exhibition."},
-    {"date": "2025-01-29", "category": "Space", "event": "New Glenn Maiden Flight", "details": "Blue Origin's first New Glenn launch succeeds, though booster recovery fails."}
+    {
+      "date": "2025-01-01",
+      "category": "General",
+      "event": "Bulgaria and Romania complete the process of joining the Schengen",
+      "details": "Bulgaria and Romania complete the process of joining the Schengen Area , lifting land border controls"
+    },
+    {
+      "date": "2025-01-01",
+      "category": "Security",
+      "event": "Fifteen people are killed (including the perpetrator) and 57 others",
+      "details": "Fifteen people are killed (including the perpetrator) and 57 others are injured during a vehicle-ramming and shooting attack in New Orleans , Louisiana, United States"
+    },
+    {
+      "date": "2025-01-01",
+      "category": "General",
+      "event": "Liechtenstein becomes the 37th country to legalize same-sex marriage",
+      "details": "Liechtenstein becomes the 37th country to legalize same-sex marriage"
+    },
+    {
+      "date": "2025-01-01",
+      "category": "Politics",
+      "event": "Poland takes over the Presidency of the Council of the",
+      "details": "Poland takes over the Presidency of the Council of the European Union , after the Hungarian presidency"
+    },
+    {
+      "date": "2025-01-01",
+      "category": "Security",
+      "event": "Thirteen people are killed and 3 more injured in a",
+      "details": "Thirteen people are killed and 3 more injured in a shooting in Cetinje , Montenegro"
+    },
+    {
+      "date": "2025-01-01",
+      "category": "Politics",
+      "event": "Ukraine halts the transportation of many Russian gas supplies through",
+      "details": "Ukraine halts the transportation of many Russian gas supplies through the country following the expiration of a five-year transit deal, while also becoming a state party in the International Criminal Court"
+    },
+    {
+      "date": "2025-01-06",
+      "category": "General",
+      "event": "Indonesia becomes the tenth member to join BRICS",
+      "details": "Indonesia becomes the tenth member to join BRICS"
+    },
+    {
+      "date": "2025-01-07",
+      "category": "Disaster",
+      "event": "A 7.1 magnitude earthquake strikes Tibet , China, killing at",
+      "details": "A 7.1 magnitude earthquake strikes Tibet , China, killing at least 126 people, with another 338 are injured"
+    },
+    {
+      "date": "2025-01-07",
+      "category": "Disaster",
+      "event": "At least 29 deaths are reported, while 180,000 people are",
+      "details": "At least 29 deaths are reported, while 180,000 people are evacuated, with fires continuing for days"
+    },
+    {
+      "date": "2025-01-07",
+      "category": "Disaster",
+      "event": "Greater Los Angeles experiences the most destructive wildfires in its",
+      "details": "Greater Los Angeles experiences the most destructive wildfires in its history , fueled by strong winds and prolonged drought conditions"
+    },
+    {
+      "date": "2025-01-07",
+      "category": "General",
+      "event": "Over 13,000 structures are destroyed, including most of Sunset Boulevard",
+      "details": "Over 13,000 structures are destroyed, including most of Sunset Boulevard"
+    },
+    {
+      "date": "2025-01-08",
+      "category": "Politics",
+      "event": "Eighteen gunmen and a soldier are killed in an attack",
+      "details": "Eighteen gunmen and a soldier are killed in an attack on the presidential palace in N'Djamena , the capital of Chad"
+    },
+    {
+      "date": "2025-01-09",
+      "category": "Politics",
+      "event": "The Commander of the Lebanese Armed Forces , Joseph Aoun",
+      "details": "The Commander of the Lebanese Armed Forces , Joseph Aoun , is elected the 14th president of Lebanon by parliament , ending the power vacuum that lasted over two years"
+    },
+    {
+      "date": "2025-01-10",
+      "category": "Security",
+      "event": "The European Copernicus Climate Change Service reports that 2024 was",
+      "details": "The European Copernicus Climate Change Service reports that 2024 was the world's hottest year on record, and the first calendar year to pass the symbolic threshold of 1.5 \u00b0C of global warming"
+    },
+    {
+      "date": "2025-01-11",
+      "category": "Disaster",
+      "event": "A gas station explosion in Al Bayda , Yemen, results",
+      "details": "A gas station explosion in Al Bayda , Yemen, results in 40 deaths and dozens of others injured"
+    },
+    {
+      "date": "2025-01-12",
+      "category": "Politics",
+      "event": "2024\u201325 Croatian presidential election : Zoran Milanovi\u0107 is re-elected for",
+      "details": "2024\u201325 Croatian presidential election : Zoran Milanovi\u0107 is re-elected for a second term"
+    },
+    {
+      "date": "2025-01-13",
+      "category": "General",
+      "event": "C/2024 G3 (ATLAS) , a non-periodic comet , reaches perihelion,",
+      "details": "C/2024 G3 (ATLAS) , a non-periodic comet , reaches perihelion, and is dubbed The Great Comet of 2025"
+    },
+    {
+      "date": "2025-01-14",
+      "category": "Sports",
+      "event": "February 2 \u2013 The 2025 World Men's Handball Championship is",
+      "details": "February 2 \u2013 The 2025 World Men's Handball Championship is held in Croatia , Denmark and Norway , and is won by Denmark"
+    },
+    {
+      "date": "2025-01-15",
+      "category": "Security",
+      "event": "Colossal Biosciences and University of Melbourne create the world's first",
+      "details": "Colossal Biosciences and University of Melbourne create the world's first artificial womb in marsupials as part of their project toward de-extinction of the thylacine"
+    },
+    {
+      "date": "2025-01-15",
+      "category": "Disaster",
+      "event": "Gaza war : Israel and Hamas approve a ceasefire agreement",
+      "details": "Gaza war : Israel and Hamas approve a ceasefire agreement that seeks to end the war, exchange Israeli hostages and Palestinian prisoners, and allow in international aid"
+    },
+    {
+      "date": "2025-01-15",
+      "category": "General",
+      "event": "It took effect on January 19",
+      "details": "It took effect on January 19"
+    },
+    {
+      "date": "2025-01-15",
+      "category": "Politics",
+      "event": "The President of South Korea , Yoon Suk Yeol ,",
+      "details": "The President of South Korea , Yoon Suk Yeol , is successfully arrested after a second attempt by police following a martial law declaration and successful impeachment motion last December"
+    },
+    {
+      "date": "2025-01-16",
+      "category": "Space",
+      "event": "Blue Origin successfully launches its heavy-lift launch vehicle , New",
+      "details": "Blue Origin successfully launches its heavy-lift launch vehicle , New Glenn , on its first attempt, though fails to land its first stage booster as intended"
+    },
+    {
+      "date": "2025-01-16",
+      "category": "General",
+      "event": "Over 100 people are killed during the clashes",
+      "details": "Over 100 people are killed during the clashes"
+    },
+    {
+      "date": "2025-01-16",
+      "category": "Politics",
+      "event": "The 2025 Vanuatuan general election is held",
+      "details": "The 2025 Vanuatuan general election is held"
+    },
+    {
+      "date": "2025-01-16",
+      "category": "Security",
+      "event": "The National Liberation Army (ELN) launches multiple attacks in the",
+      "details": "The National Liberation Army (ELN) launches multiple attacks in the Catatumbo region , northeastern Colombia"
+    },
+    {
+      "date": "2025-01-18",
+      "category": "Disaster",
+      "event": "98 people are killed in a fuel tanker explosion near",
+      "details": "98 people are killed in a fuel tanker explosion near Suleja , Niger State, Nigeria"
+    },
+    {
+      "date": "2025-01-18",
+      "category": "Security",
+      "event": "The gunman injured two other people and committed suicide after",
+      "details": "The gunman injured two other people and committed suicide after the attacks"
+    },
+    {
+      "date": "2025-01-18",
+      "category": "Security",
+      "event": "Two Sharia judges are assassinated in their rooms at the",
+      "details": "Two Sharia judges are assassinated in their rooms at the Supreme Court of Iran in capital Tehran"
+    },
+    {
+      "date": "2025-01-19",
+      "category": "Disaster",
+      "event": "Gaza war : A ceasefire goes into effect, lasting until",
+      "details": "Gaza war : A ceasefire goes into effect, lasting until an Israeli surprise attack on 18 March"
+    },
+    {
+      "date": "2025-01-21",
+      "category": "Disaster",
+      "event": "78 people are killed after a fire breaks out in",
+      "details": "78 people are killed after a fire breaks out in a hotel in the ski resort of Kartalkaya , Turkey"
+    },
+    {
+      "date": "2025-01-23",
+      "category": "Politics",
+      "event": "Miche\u00e1l Martin is re-elected prime minister ( Taoiseach ) of",
+      "details": "Miche\u00e1l Martin is re-elected prime minister ( Taoiseach ) of Ireland by D\u00e1il \u00c9ireann for a second non-consecutive term"
+    },
+    {
+      "date": "2025-01-23",
+      "category": "Technology",
+      "event": "Thailand becomes the 38th country and the first in Southeastern",
+      "details": "Thailand becomes the 38th country and the first in Southeastern Asia to legalize same-sex marriage"
+    },
+    {
+      "date": "2025-01-24",
+      "category": "Technology",
+      "event": "A series of ongoing boycotts in Southeastern European countries took",
+      "details": "A series of ongoing boycotts in Southeastern European countries took place of several retail stores in that region, in response to raised food prices and alleged price fixing"
+    },
+    {
+      "date": "2025-01-24",
+      "category": "General",
+      "event": "Record high wind speeds of 183 km/h (114 mph) are",
+      "details": "Record high wind speeds of 183 km/h (114 mph) are recorded in Ireland, while over a million homes are left without power"
+    },
+    {
+      "date": "2025-01-24",
+      "category": "Disaster",
+      "event": "Storm \u00c9owyn hits Ireland and the United Kingdom",
+      "details": "Storm \u00c9owyn hits Ireland and the United Kingdom"
+    },
+    {
+      "date": "2025-01-25",
+      "category": "General",
+      "event": "The Dacian -era Helmet of Co\u021bofene\u0219ti , on loan from",
+      "details": "The Dacian -era Helmet of Co\u021bofene\u0219ti , on loan from the National History Museum of Romania , is stolen along with three other gold artifacts from the Drents Museum in Assen by thieves who broke into the museum using explosives"
+    },
+    {
+      "date": "2025-01-26",
+      "category": "Politics",
+      "event": "The 2025 Belarusian presidential election is held, with incumbent Alexander",
+      "details": "The 2025 Belarusian presidential election is held,  with incumbent Alexander Lukashenko ( independent , but of the Belaya Rus alliance) being re-elected"
+    },
+    {
+      "date": "2025-01-27",
+      "category": "General",
+      "event": "Chip giant Nvidia loses almost $600 billion of its value,",
+      "details": "Chip giant Nvidia loses almost $600 billion of its value, the biggest drop for a single company in U"
+    },
+    {
+      "date": "2025-01-27",
+      "category": "Technology",
+      "event": "Global technology shares outside China fall sharply in response to",
+      "details": "Global technology shares outside China fall sharply in response to the release of DeepSeek 's chatbot , a Chinese competitor to OpenAI 's ChatGPT"
+    },
+    {
+      "date": "2025-01-27",
+      "category": "General",
+      "event": "S",
+      "details": "S"
+    },
+    {
+      "date": "2025-01-27",
+      "category": "Economics",
+      "event": "stock market history",
+      "details": "stock market history"
+    },
+    {
+      "date": "2025-01-29",
+      "category": "General",
+      "event": ", United States",
+      "details": ", United States"
+    },
+    {
+      "date": "2025-01-29",
+      "category": "Security",
+      "event": "2025 Potomac River mid-air collision : A United States Army",
+      "details": "2025 Potomac River mid-air collision : A United States Army Black Hawk helicopter with three occupants on board, collides with a Bombardier CRJ700 operated by PSA Airlines with 64 occupants on board in Washington, D"
+    },
+    {
+      "date": "2025-01-29",
+      "category": "Politics",
+      "event": "Ahmed al-Sharaa is appointed as the president of Syria ,",
+      "details": "Ahmed al-Sharaa is appointed as the president of Syria , after a one-month vacancy following the fall of the Assad regime"
+    },
+    {
+      "date": "2025-01-29",
+      "category": "General",
+      "event": "C",
+      "details": "C"
+    },
+    {
+      "date": "2025-01-29",
+      "category": "General",
+      "event": "There are no survivors",
+      "details": "There are no survivors"
+    }
   ]
 }

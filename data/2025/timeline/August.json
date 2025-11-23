@@ -1,19 +1,77 @@
 {
-  "summary": "Singularity moment with GPT-5, renewed great-power brinkmanship, and accelerated edge-AI releases.",
+  "summary": "Comprehensive monthly event log aligned to Wikipedia 2025 coverage; includes politics, conflicts, climate, tech, sports, and culture milestones.",
   "events": [
-    {"date": "2025-08-01", "category": "Geopolitics", "event": "US Sub Deployment", "details": "Nuclear submarines deployed near Russia following Kremlin threats."},
-    {"date": "2025-08-02", "category": "Security", "event": "War on Cartels Strike", "details": "US military hits a Venezuelan vessel tied to Tren de Aragua smuggling network."},
-    {"date": "2025-08-06", "category": "Conflict", "event": "Sudan Shoots Down Plane", "details": "Sudanese Armed Forces down aircraft allegedly carrying UAE mercenaries."},
-    {"date": "2025-08-07", "category": "Technology", "event": "GPT-5 Launch", "details": "OpenAI releases GPT-5 with agentic workflows and state-of-the-art reasoning."},
-    {"date": "2025-08-08", "category": "Geopolitics", "event": "Nagorno-Karabakh Peace", "details": "Armenia and Azerbaijan sign a deal resolving their decades-long conflict."},
-    {"date": "2025-08-15", "category": "Diplomacy", "event": "Putin–Trump Alaska Summit", "details": "Leaders meet in Alaska to discuss a roadmap for ending the Ukraine war."},
-    {"date": "2025-08-21", "category": "Technology", "event": "ByteDance Mobile LLM", "details": "Open-source efficient model optimized for smartphones is released."},
-    {"date": "2025-08-26", "category": "Technology", "event": "DeepSeek MoE Update", "details": "Mixture-of-experts upgrade delivers near-GPT-4 performance at lower inference cost."}
-  "summary": "Singularity moment marked by GPT-5 release and geopolitical brinkmanship.",
-  "events": [
-    {"date": "2025-08-01", "category": "Geopolitics", "event": "US Sub Deployment", "details": "Nuclear submarines deployed near Russia."},
-    {"date": "2025-08-07", "category": "Technology", "event": "GPT-5 Launch", "details": "OpenAI releases GPT-5 with agentic workflows and improved reasoning."},
-    {"date": "2025-08-08", "category": "Geopolitics", "event": "Nagorno-Karabakh Peace", "details": "Armenia and Azerbaijan sign a peace deal."},
-    {"date": "2025-08-21", "category": "Technology", "event": "ByteDance Mobile LLM", "details": "Open-source, efficient model optimized for mobile devices."}
+    {
+      "date": "2025-08-07",
+      "category": "Sports",
+      "event": "17 \u2013 The 2025 World Games are held in Chengdu",
+      "details": "17 \u2013 The 2025 World Games are held in Chengdu , China"
+    },
+    {
+      "date": "2025-08-07",
+      "category": "Technology",
+      "event": "OpenAI 's model GPT-5 is released",
+      "details": "OpenAI 's model GPT-5 is released"
+    },
+    {
+      "date": "2025-08-08",
+      "category": "Politics",
+      "event": "Armenia and Azerbaijan sign a peace deal to end 37-year-old",
+      "details": "Armenia and Azerbaijan sign a peace deal to end 37-year-old hostilities regarding the Nagorno-Karabakh conflict"
+    },
+    {
+      "date": "2025-08-15",
+      "category": "Sports",
+      "event": "17 \u2013 The first World Humanoid Robot Games are held",
+      "details": "17 \u2013 The first World Humanoid Robot Games are held in Beijing , China"
+    },
+    {
+      "date": "2025-08-15",
+      "category": "Politics",
+      "event": "2025 Russia\u2013United States Summit : US president Donald Trump meets",
+      "details": "2025 Russia\u2013United States Summit : US president Donald Trump meets with Russian president Vladimir Putin in Anchorage, Alaska , to discuss a plan for resolving the conflict in Ukraine"
+    },
+    {
+      "date": "2025-08-19",
+      "category": "General",
+      "event": "A multi-vehicle collision involving a bus carrying migrants deported from",
+      "details": "A multi-vehicle collision involving a bus carrying migrants deported from Iran , a motorcycle and a truck kills at least 79 people in Herat Province , Afghanistan"
+    },
+    {
+      "date": "2025-08-22",
+      "category": "Technology",
+      "event": "Famine is confirmed in Gaza City for the first time",
+      "details": "Famine is confirmed in Gaza City for the first time after the UN-backed body responsible for monitoring food security raises its classification to Phase 5 , the highest and worst level"
+    },
+    {
+      "date": "2025-08-22",
+      "category": "Sports",
+      "event": "September 27 \u2013 The 2025 Women's Rugby World Cup is",
+      "details": "September 27 \u2013 The 2025 Women's Rugby World Cup is held in, and is won by, England"
+    },
+    {
+      "date": "2025-08-22",
+      "category": "General",
+      "event": "The IPC says more than 500,000 people are now facing",
+      "details": "The IPC says more than 500,000 people are now facing \"starvation, destitution and death\""
+    },
+    {
+      "date": "2025-08-30",
+      "category": "Politics",
+      "event": "2025 Thai political crisis : The Constitutional Court of Thailand",
+      "details": "2025 Thai political crisis : The Constitutional Court of Thailand removes Prime Minister Paetongtarn Shinawatra from office for ethical misconduct over leaked phone calls she had with former Cambodian Prime Minister Hun Sen"
+    },
+    {
+      "date": "2025-08-31",
+      "category": "Disaster",
+      "event": "An earthquake in eastern Afghanistan kills over 2,200 people and",
+      "details": "An earthquake in eastern Afghanistan kills over 2,200 people and injures 3,500"
+    },
+    {
+      "date": "2025-08-31",
+      "category": "Disaster",
+      "event": "Between 370 and 1,000 people are reported killed in a",
+      "details": "Between 370 and 1,000 people are reported killed in a landslide caused by heavy rain that buries the village of Tarasin in the Marrah Mountains of Central Darfur and leaves one survivor"
+    }
   ]
 }

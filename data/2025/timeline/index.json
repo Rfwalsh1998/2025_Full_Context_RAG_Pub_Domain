@@ -10,7 +10,8 @@
     "August",
     "September",
     "October",
-    "November"
+    "November",
+    "December"
   ],
   "schema": {
     "summary": "High-level narrative for the month.",

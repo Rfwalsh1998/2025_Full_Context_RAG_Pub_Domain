@@ -1,13 +1,131 @@
 {
-  "summary": "Climate breaches, nuclear tensions in South Asia, and a historic papal election amid tech competition.",
+  "summary": "Comprehensive monthly event log aligned to Wikipedia 2025 coverage; includes politics, conflicts, climate, tech, sports, and culture milestones.",
   "events": [
-    {"date": "2025-05-01", "category": "Environment", "event": "Monthly 1.5°C Breach", "details": "April 2025 becomes the first full month above the 1.5°C warming threshold."},
-    {"date": "2025-05-05", "category": "Conflict", "event": "India-Pakistan Strikes", "details": "Missile exchange over Pahalgam attack raises escalation fears."},
-    {"date": "2025-05-08", "category": "Religion", "event": "Pope Leo XIV", "details": "Robert Prevost elected the first American Pope and first from the Order of Saint Augustine."},
-    {"date": "2025-05-10", "category": "Elections", "event": "German Federal Election", "details": "Opposition leader Friedrich Merz becomes Chancellor after ruling coalition loses majority."},
-    {"date": "2025-05-12", "category": "Elections", "event": "UK General Election", "details": "Snap poll returns a minority Labour government amid low turnout."},
-    {"date": "2025-05-14", "category": "Technology", "event": "Google I/O", "details": "Gemini 2.5 Pro launches; AI Mode in Search expands to Hindi, Indonesian, and Portuguese."},
-    {"date": "2025-05-20", "category": "Economics", "event": "SoftBank Arizona Pitch", "details": "Masayoshi Son touts $1T 'AI and robotics complex' concept for US manufacturing."},
-    {"date": "2025-05-30", "category": "Environment", "event": "Norway EV Deadline", "details": "Norway confirms it will end sales of new gasoline and diesel cars by year-end 2025."}
+    {
+      "date": "2025-05-03",
+      "category": "Politics",
+      "event": "2025 Australian federal election : The incumbent Labor Party led",
+      "details": "2025 Australian federal election : The incumbent Labor Party led by Anthony Albanese wins reelection, increasing their majority"
+    },
+    {
+      "date": "2025-05-03",
+      "category": "Politics",
+      "event": "2025 Malian protests : Hundreds of demonstrators gather in Bamako",
+      "details": "2025 Malian protests : Hundreds of demonstrators gather in Bamako , Mali , to protest the government 's proposed dissolution of political parties and extension of president Assimi Go\u00efta 's mandate by 5 years"
+    },
+    {
+      "date": "2025-05-03",
+      "category": "Disaster",
+      "event": "2025 Singaporean general election : The incumbent People's Action Party",
+      "details": "2025 Singaporean general election : The incumbent People's Action Party led by Lawrence Wong wins reelection in a landslide, retaining a supermajority government"
+    },
+    {
+      "date": "2025-05-03",
+      "category": "General",
+      "event": "The protests mark the first pro-democracy demonstrations in the country",
+      "details": "The protests mark the first pro-democracy demonstrations in the country since the regime took power in 2021"
+    },
+    {
+      "date": "2025-05-06",
+      "category": "Politics",
+      "event": "2025 German federal election : Friedrich Merz is elected Chancellor",
+      "details": "2025 German federal election : Friedrich Merz is elected Chancellor of Germany in the second round of parliamentary voting, hours after being defeated in the first round, a first in post- WWII German history"
+    },
+    {
+      "date": "2025-05-06",
+      "category": "Security",
+      "event": "2025 India\u2013Pakistan conflict : India launches several missiles into Pakistani",
+      "details": "2025 India\u2013Pakistan conflict : India launches several missiles into Pakistani territory in response to the 2025 Pahalgam attack two weeks prior"
+    },
+    {
+      "date": "2025-05-07",
+      "category": "General",
+      "event": "8 \u2013 2025 conclave : 133 cardinal electors elect Robert",
+      "details": "8 \u2013 2025 conclave : 133 cardinal electors elect Robert Francis Prevost as Pope Francis 's successor, on the fourth ballot"
+    },
+    {
+      "date": "2025-05-07",
+      "category": "General",
+      "event": "He takes the name Pope Leo XIV , and becomes",
+      "details": "He takes the name Pope Leo XIV , and becomes the first pope from North America, the first with Peruvian or U"
+    },
+    {
+      "date": "2025-05-07",
+      "category": "General",
+      "event": "S",
+      "details": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "category": "Technology",
+      "event": "citizenship, and the first from the Order of Saint Augustine",
+      "details": "citizenship, and the first from the Order of Saint Augustine"
+    },
+    {
+      "date": "2025-05-09",
+      "category": "Economics",
+      "event": "25 \u2013 The 2025 IIHF World Championship is held in",
+      "details": "25 \u2013 The 2025 IIHF World Championship is held in Stockholm , Sweden, and Herning , Denmark, and is won by the United States"
+    },
+    {
+      "date": "2025-05-11",
+      "category": "Politics",
+      "event": "2025 Albanian parliamentary election : The incumbent Socialist Party led",
+      "details": "2025 Albanian parliamentary election : The incumbent Socialist Party led by Edi Rama wins reelection, retaining a majority government"
+    },
+    {
+      "date": "2025-05-12",
+      "category": "Politics",
+      "event": "2025 Philippine general election : The ruling Alyansa para sa",
+      "details": "2025 Philippine general election : The ruling Alyansa para sa Bagong Pilipinas alliance win a narrow majority of the seats in the Senate , while one of its component parties Lakas\u2013CMD wins the plurality of seats in the House of Representatives"
+    },
+    {
+      "date": "2025-05-12",
+      "category": "Disaster",
+      "event": "The Kurdistan Workers' Party announces its dissolution after previously declaring",
+      "details": "The Kurdistan Workers' Party announces its dissolution after previously declaring a ceasefire with Turkey"
+    },
+    {
+      "date": "2025-05-13",
+      "category": "General",
+      "event": "17 \u2013 The Eurovision Song Contest 2025 is held in",
+      "details": "17 \u2013 The Eurovision Song Contest 2025 is held in Basel , Switzerland"
+    },
+    {
+      "date": "2025-05-13",
+      "category": "General",
+      "event": "Austrian contestant JJ wins with the song \" Wasted Love",
+      "details": "Austrian contestant JJ wins with the song \" Wasted Love \""
+    },
+    {
+      "date": "2025-05-18",
+      "category": "Politics",
+      "event": "2025 Portuguese legislative election : The incumbent Social Democratic Party",
+      "details": "2025 Portuguese legislative election : The incumbent Social Democratic Party led by Lu\u00eds Montenegro wins an increased plurality , but fails to achieve a majority"
+    },
+    {
+      "date": "2025-05-18",
+      "category": "Politics",
+      "event": "2025 Romanian presidential election : Following the annulment of the",
+      "details": "2025 Romanian presidential election : Following the annulment of the previous election , Bucharest mayor Nicu\u0219or Dan wins in the second round, beating George Simion"
+    },
+    {
+      "date": "2025-05-25",
+      "category": "Politics",
+      "event": "The 2025 Surinamese general election is held",
+      "details": "The 2025 Surinamese general election is held"
+    },
+    {
+      "date": "2025-05-25",
+      "category": "Politics",
+      "event": "The 2025 Venezuelan parliamentary election is held",
+      "details": "The 2025 Venezuelan parliamentary election is held"
+    },
+    {
+      "date": "2025-05-31",
+      "category": "General",
+      "event": "Josep-Llu\u00eds Serrano Pentinat is sworn in as the new Episcopal",
+      "details": "Josep-Llu\u00eds Serrano Pentinat is sworn in as the new Episcopal Co-Prince of Andorra and Bishop of Urgell after the Vatican accepts the resignation of Joan Enric Vives i Sic\u00edlia for age limitation reasons"
+    }
   ]
 }
