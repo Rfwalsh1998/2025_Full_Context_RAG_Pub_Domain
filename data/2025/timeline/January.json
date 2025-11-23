@@ -1,0 +1,12 @@
+{
+  "summary": "Structural shocks: 'Liberation Day' orders in the US, DeepSeek AI market crash, and confirmed climate records.",
+  "events": [
+    {"date": "2025-01-01", "category": "Security", "event": "New Orleans Attack", "details": "Vehicle-ramming and shooting in the French Quarter kills 15."},
+    {"date": "2025-01-05", "category": "Environment", "event": "Palisades Fire (LA)", "details": "Santa Ana winds drive fires destroying 13,000 structures."},
+    {"date": "2025-01-07", "category": "Environment", "event": "Tibet Earthquake", "details": "Magnitude 7.1 quake leaves at least 126 dead."},
+    {"date": "2025-01-10", "category": "Environment", "event": "1.5°C Record", "details": "2024 confirmed as the first year exceeding 1.5°C warming."},
+    {"date": "2025-01-15", "category": "Science", "event": "Thylacine Embryo", "details": "Artificial womb milestone achieves mid-gestation Tasmanian tiger embryo."},
+    {"date": "2025-01-20", "category": "Politics", "event": "Liberation Day (Inauguration)", "details": "Trump inaugurated; revokes 78 executive orders and withdraws from WHO/Paris Agreement."},
+    {"date": "2025-01-20", "category": "Technology", "event": "DeepSeek Shock", "details": "Efficient Chinese LLM launch triggers a 17% intraday drop in Nvidia stock."}
+  ]
+}

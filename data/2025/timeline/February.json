@@ -1,0 +1,8 @@
+{
+  "summary": "Economic fragmentation and AI-bio acceleration.",
+  "events": [
+    {"date": "2025-02-02", "category": "Conflict", "event": "Somalia Airstrikes", "details": "US strikes ISIS targets in Puntland, killing 46."},
+    {"date": "2025-02-03", "category": "Economics", "event": "US-Canada Trade Truce", "details": "Tariff delay after Ontario threatens to cancel Starlink contracts."},
+    {"date": "2025-02-15", "category": "Technology", "event": "AI-Bio Launch", "details": "Manas AI founded; Nvidia introduces CavitOmiX for drug discovery."}
+  ]
+}

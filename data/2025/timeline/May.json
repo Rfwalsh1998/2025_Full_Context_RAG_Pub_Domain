@@ -1,0 +1,9 @@
+{
+  "summary": "Climate breaches and nuclear risks in South Asia.",
+  "events": [
+    {"date": "2025-05-01", "category": "Environment", "event": "Monthly 1.5°C Breach", "details": "April 2025 becomes the first month to exceed the threshold."},
+    {"date": "2025-05-05", "category": "Conflict", "event": "India-Pakistan Strikes", "details": "Missile exchange raises escalation fears."},
+    {"date": "2025-05-08", "category": "Religion", "event": "Pope Leo XIV", "details": "Robert Prevost elected as the first American Pope."},
+    {"date": "2025-05-14", "category": "Technology", "event": "Google I/O", "details": "Gemini 2.5 Pro unveiled along with AI Mode in Search."}
+  ]
+}
