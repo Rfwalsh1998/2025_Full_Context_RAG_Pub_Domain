@@ -1,0 +1,11 @@
+{
+  "summary": "Asian political crisis, climate disasters in the US, and landmark climate accountability ruling.",
+  "events": [
+    {"date": "2025-07-01", "category": "Politics", "event": "Thailand Crisis", "details": "Prime Minister Paetongtarn Shinawatra suspended pending dismissal case."},
+    {"date": "2025-07-04", "category": "Disaster", "event": "Texas Floods Begin", "details": "Historic rainfall across Central Texas triggers lethal flooding."},
+    {"date": "2025-07-07", "category": "Disaster", "event": "Texas Floods Peak", "details": "Death toll reaches 135 as storm stalls over the region."},
+    {"date": "2025-07-17", "category": "ClimateLaw", "event": "ICJ Climate Ruling", "details": "International Court of Justice affirms states can sue each other for climate damage."},
+    {"date": "2025-07-21", "category": "Disaster", "event": "Dhaka Training Crash", "details": "Bangladesh Air Force jet hits a college building, killing 31."},
+    {"date": "2025-07-25", "category": "Security", "event": "Cambodia-Thailand Tensions", "details": "Leaked phone call escalates border dispute, prompting troop alerts."}
+  ]
+}

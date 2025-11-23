@@ -1,0 +1,13 @@
+{
+  "summary": "Singularity moment with GPT-5, renewed great-power brinkmanship, and accelerated edge-AI releases.",
+  "events": [
+    {"date": "2025-08-01", "category": "Geopolitics", "event": "US Sub Deployment", "details": "Nuclear submarines deployed near Russia following Kremlin threats."},
+    {"date": "2025-08-02", "category": "Security", "event": "War on Cartels Strike", "details": "US military hits a Venezuelan vessel tied to Tren de Aragua smuggling network."},
+    {"date": "2025-08-06", "category": "Conflict", "event": "Sudan Shoots Down Plane", "details": "Sudanese Armed Forces down aircraft allegedly carrying UAE mercenaries."},
+    {"date": "2025-08-07", "category": "Technology", "event": "GPT-5 Launch", "details": "OpenAI releases GPT-5 with agentic workflows and state-of-the-art reasoning."},
+    {"date": "2025-08-08", "category": "Geopolitics", "event": "Nagorno-Karabakh Peace", "details": "Armenia and Azerbaijan sign a deal resolving their decades-long conflict."},
+    {"date": "2025-08-15", "category": "Diplomacy", "event": "Putin–Trump Alaska Summit", "details": "Leaders meet in Alaska to discuss a roadmap for ending the Ukraine war."},
+    {"date": "2025-08-21", "category": "Technology", "event": "ByteDance Mobile LLM", "details": "Open-source efficient model optimized for smartphones is released."},
+    {"date": "2025-08-26", "category": "Technology", "event": "DeepSeek MoE Update", "details": "Mixture-of-experts upgrade delivers near-GPT-4 performance at lower inference cost."}
+  ]
+}

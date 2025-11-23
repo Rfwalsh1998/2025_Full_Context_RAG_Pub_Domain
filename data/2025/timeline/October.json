@@ -1,0 +1,13 @@
+{
+  "summary": "Reality blur from advanced video AI, mass protests during a US shutdown, and coups amid climate disasters.",
+  "events": [
+    {"date": "2025-10-01", "category": "Politics", "event": "US Shutdown", "details": "Federal funding lapses, halting pay for millions of workers."},
+    {"date": "2025-10-05", "category": "Technology", "event": "Sora 2 Release", "details": "OpenAI's text-to-video model generates 60-second photorealistic clips, fueling protest disinformation."},
+    {"date": "2025-10-09", "category": "Politics", "event": "Madagascar Coup", "details": "Military ousts President Andry Rajoelina after months of demonstrations."},
+    {"date": "2025-10-13", "category": "Geopolitics", "event": "Gaza Hostage Exchange", "details": "Hamas releases 20 hostages to the Red Cross; Israel frees 1,900 detainees."},
+    {"date": "2025-10-18", "category": "Politics", "event": "'No Kings' Phase II", "details": "5–7 million protesters rally nationwide against authoritarian drift."},
+    {"date": "2025-10-20", "category": "Conflict", "event": "Al-Fashir Massacre", "details": "Government-linked militias kill over 2,500 civilians in Darfur city."},
+    {"date": "2025-10-25", "category": "Technology", "event": "Small Models", "details": "Microsoft's Phi-4 and IBM's Granite 4.0 release efficient instruction-tuned models."},
+    {"date": "2025-10-28", "category": "Environment", "event": "Hurricane Melissa", "details": "Category 5 storm strikes Jamaica with near 300 km/h winds."}
+  ]
+}

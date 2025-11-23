@@ -1,0 +1,13 @@
+{
+  "summary": "Bio-engineering milestones, Korean political upheaval, and the opening of Expo 2025 in Osaka.",
+  "events": [
+    {"date": "2025-04-01", "category": "Space", "event": "Fram2 Polar Orbit", "details": "SpaceX launches first crewed polar retrograde orbit mission."},
+    {"date": "2025-04-04", "category": "Politics", "event": "Korea Impeachment", "details": "South Korea's Constitutional Court removes President Yoon Suk Yeol from office."},
+    {"date": "2025-04-07", "category": "Science", "event": "Dire Wolf De-extinction", "details": "Colossal Biosciences announces birth of engineered Dire Wolf pups Romulus, Remus, and Khaleesi."},
+    {"date": "2025-04-09", "category": "Disaster", "event": "Jet Set Nightclub Fire", "details": "Fire and stampede at a Santo Domingo club kill nearly 100."},
+    {"date": "2025-04-10", "category": "Technology", "event": "Spot AI", "details": "Launch of a universal AI agent builder for live security camera monitoring."},
+    {"date": "2025-04-13", "category": "Culture", "event": "Expo 2025 Opens", "details": "World Expo begins in Osaka, Japan, focusing on 'Designing Future Society for Our Lives'."},
+    {"date": "2025-04-15", "category": "Science", "event": "K2-18b Biosignature Hint", "details": "JWST team reports possible organic molecules in exoplanet K2-18b's atmosphere."},
+    {"date": "2025-04-20", "category": "Security", "event": "Thai-Cambodia Border Skirmish", "details": "Border clashes kill dozens and displace thousands along the frontier."}
+  ]
+}

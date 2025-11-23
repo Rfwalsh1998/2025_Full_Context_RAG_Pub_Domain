@@ -1,0 +1,13 @@
+{
+  "summary": "Climate breaches, nuclear tensions in South Asia, and a historic papal election amid tech competition.",
+  "events": [
+    {"date": "2025-05-01", "category": "Environment", "event": "Monthly 1.5°C Breach", "details": "April 2025 becomes the first full month above the 1.5°C warming threshold."},
+    {"date": "2025-05-05", "category": "Conflict", "event": "India-Pakistan Strikes", "details": "Missile exchange over Pahalgam attack raises escalation fears."},
+    {"date": "2025-05-08", "category": "Religion", "event": "Pope Leo XIV", "details": "Robert Prevost elected the first American Pope and first from the Order of Saint Augustine."},
+    {"date": "2025-05-10", "category": "Elections", "event": "German Federal Election", "details": "Opposition leader Friedrich Merz becomes Chancellor after ruling coalition loses majority."},
+    {"date": "2025-05-12", "category": "Elections", "event": "UK General Election", "details": "Snap poll returns a minority Labour government amid low turnout."},
+    {"date": "2025-05-14", "category": "Technology", "event": "Google I/O", "details": "Gemini 2.5 Pro launches; AI Mode in Search expands to Hindi, Indonesian, and Portuguese."},
+    {"date": "2025-05-20", "category": "Economics", "event": "SoftBank Arizona Pitch", "details": "Masayoshi Son touts $1T 'AI and robotics complex' concept for US manufacturing."},
+    {"date": "2025-05-30", "category": "Environment", "event": "Norway EV Deadline", "details": "Norway confirms it will end sales of new gasoline and diesel cars by year-end 2025."}
+  ]
+}

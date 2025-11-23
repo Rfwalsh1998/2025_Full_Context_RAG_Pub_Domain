@@ -1,0 +1,17 @@
+{
+  "summary": "Structural shocks: 'Liberation Day' orders in the US, DeepSeek AI market crash, and confirmed climate records amid extreme weather swings.",
+  "events": [
+    {"date": "2025-01-01", "category": "Security", "event": "New Orleans Attack", "details": "Vehicle-ramming and shooting in the French Quarter kills 15."},
+    {"date": "2025-01-01", "category": "Astronomy", "event": "Great Comet Peak", "details": "Great Comet of 2025 (C/2024 G3 ATLAS) reaches perihelion and becomes visible to the naked eye."},
+    {"date": "2025-01-05", "category": "Environment", "event": "Palisades Fire (LA)", "details": "Santa Ana winds drive fires destroying 13,000 structures across Los Angeles County."},
+    {"date": "2025-01-07", "category": "Environment", "event": "Tibet Earthquake", "details": "Magnitude 7.1 quake leaves at least 126 dead in the Tibetan Plateau."},
+    {"date": "2025-01-08", "category": "Security", "event": "Chad Palace Attack", "details": "Eighteen gunmen die in an assault on the presidential palace in N'Djamena."},
+    {"date": "2025-01-10", "category": "Environment", "event": "1.5°C Record", "details": "2024 confirmed as the first year exceeding 1.5°C warming above pre-industrial levels."},
+    {"date": "2025-01-15", "category": "Science", "event": "Thylacine Embryo", "details": "Artificial womb milestone achieves mid-gestation Tasmanian tiger embryo."},
+    {"date": "2025-01-19", "category": "Justice", "event": "Tehran Judges Assassinated", "details": "Two judges linked to the 1988 executions are killed in Tehran."},
+    {"date": "2025-01-20", "category": "Politics", "event": "Liberation Day (Inauguration)", "details": "Trump inaugurated; revokes 78 executive orders and withdraws from WHO and Paris Agreement."},
+    {"date": "2025-01-20", "category": "Technology", "event": "DeepSeek Shock", "details": "Efficient Chinese LLM launch triggers a 17% intraday drop in Nvidia stock."},
+    {"date": "2025-01-24", "category": "Education", "event": "Google BETT Showcase", "details": "Google debuts Gemini-powered classroom tools at London's BETT exhibition."},
+    {"date": "2025-01-29", "category": "Space", "event": "New Glenn Maiden Flight", "details": "Blue Origin's first New Glenn launch succeeds, though booster recovery fails."}
+  ]
+}
