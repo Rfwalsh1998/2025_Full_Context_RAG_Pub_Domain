@@ -1,0 +1,27 @@
+{
+  "months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "schema": {
+    "summary": "High-level narrative for the month.",
+    "events": [
+      {
+        "date": "ISO-8601 date string (YYYY-MM-DD)",
+        "category": "Topline domain such as Politics, Technology, Environment, etc.",
+        "event": "Short title",
+        "details": "Concise description"
+      }
+    ]
+  }
+}
