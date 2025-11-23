@@ -1,0 +1,8 @@
+{
+  "summary": "Diplomatic breakthroughs and the 'Stargate' compute build.",
+  "events": [
+    {"date": "2025-09-01", "category": "Human Rights", "event": "Genocide Declaration", "details": "Scholars declare Gaza actions genocide."},
+    {"date": "2025-09-15", "category": "Technology", "event": "Stargate Project", "details": "OpenAI and Nvidia announce a $100B compute partnership."},
+    {"date": "2025-09-29", "category": "Geopolitics", "event": "Gaza Peace Proposal", "details": "US peace plan accepted by Israel and Hamas."}
+  ]
+}

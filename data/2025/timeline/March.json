@@ -1,0 +1,10 @@
+{
+  "summary": "Geopolitical fracture: US pauses Ukraine aid and the Gaza ceasefire collapses.",
+  "events": [
+    {"date": "2025-03-02", "category": "Space", "event": "Firefly Moon Landing", "details": "Blue Ghost Mission 1 lands successfully."},
+    {"date": "2025-03-03", "category": "Geopolitics", "event": "Ukraine Aid Pause", "details": "White House officially halts military aid to Ukraine."},
+    {"date": "2025-03-18", "category": "Conflict", "event": "Gaza Conflict Resumes", "details": "Israel resumes bombardment as ceasefire ends."},
+    {"date": "2025-03-25", "category": "Technology", "event": "Gemini Robotics", "details": "DeepMind unveils foundation models for physical robots."},
+    {"date": "2025-03-28", "category": "Disaster", "event": "SE Asia Earthquake", "details": "Magnitude 7.7 quake in Myanmar/Thailand kills over 5,400."}
+  ]
+}

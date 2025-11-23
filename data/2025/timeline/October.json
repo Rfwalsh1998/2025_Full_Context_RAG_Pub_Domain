@@ -1,0 +1,9 @@
+{
+  "summary": "Reality blur from Sora 2 and continued US unrest amid a shutdown.",
+  "events": [
+    {"date": "2025-10-01", "category": "Politics", "event": "US Shutdown", "details": "Federal funding lapse begins."},
+    {"date": "2025-10-05", "category": "Technology", "event": "Sora 2 Release", "details": "Advanced text-to-video model fuels disinformation during protests."},
+    {"date": "2025-10-18", "category": "Politics", "event": "'No Kings' Phase II", "details": "Nationwide protests draw 5–7 million people."},
+    {"date": "2025-10-25", "category": "Technology", "event": "Small Models", "details": "Phi-4 and Granite 4.0 released, emphasizing efficient LLMs."}
+  ]
+}

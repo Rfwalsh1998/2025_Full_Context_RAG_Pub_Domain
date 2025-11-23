@@ -1,0 +1,7 @@
+{
+  "summary": "Asian political crisis and US climate disasters.",
+  "events": [
+    {"date": "2025-07-01", "category": "Politics", "event": "Thailand Crisis", "details": "Prime minister suspended amid misconduct case."},
+    {"date": "2025-07-04", "category": "Disaster", "event": "Texas Floods", "details": "Historic rainfall kills 135 and devastates infrastructure."}
+  ]
+}

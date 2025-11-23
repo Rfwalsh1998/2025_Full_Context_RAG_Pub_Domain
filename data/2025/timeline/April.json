@@ -1,0 +1,9 @@
+{
+  "summary": "Bio-engineering milestones and political turmoil in Korea.",
+  "events": [
+    {"date": "2025-04-01", "category": "Space", "event": "Fram2 Polar Orbit", "details": "SpaceX launches the first crewed polar orbit mission."},
+    {"date": "2025-04-04", "category": "Politics", "event": "Korea Impeachment", "details": "President Yoon Suk Yeol is removed from office."},
+    {"date": "2025-04-07", "category": "Science", "event": "Dire Wolf De-extinction", "details": "Birth of engineered 'Dire Wolf' pups."},
+    {"date": "2025-04-10", "category": "Technology", "event": "Spot AI", "details": "Launch of an agentic AI surveillance builder for security cameras."}
+  ]
+}

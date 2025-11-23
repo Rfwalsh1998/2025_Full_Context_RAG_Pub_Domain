@@ -1,0 +1,8 @@
+{
+  "summary": "Summer of dissent and the Israel-Iran war.",
+  "events": [
+    {"date": "2025-06-13", "category": "Conflict", "event": "Israel Strikes Iran", "details": "Attacks target nuclear facilities and senior commanders."},
+    {"date": "2025-06-14", "category": "Politics", "event": "'No Kings' Protests", "details": "Mass US protests amplified by AI-generated political videos."},
+    {"date": "2025-06-22", "category": "Conflict", "event": "US Strikes Iran", "details": "B-2 bombers hit Fordow and Natanz sites."}
+  ]
+}

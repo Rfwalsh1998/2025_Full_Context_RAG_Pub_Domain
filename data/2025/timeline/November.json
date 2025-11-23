@@ -1,0 +1,8 @@
+{
+  "summary": "Agentic economy solidifies as climate disasters continue.",
+  "events": [
+    {"date": "2025-11-05", "category": "Disaster", "event": "Typhoon Kalmaegi", "details": "Strikes the Philippines and Vietnam, causing widespread damage."},
+    {"date": "2025-11-19", "category": "Economics", "event": "Nvidia Earnings", "details": "$57B revenue; Jensen Huang touts a 'virtuous cycle of AI'."},
+    {"date": "2025-11-21", "category": "Technology", "event": "Gemini 3 Release", "details": "Google's Pro model claims reasoning superiority over GPT-5."}
+  ]
+}
